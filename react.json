@@ -1,15 +1,16 @@
-{
-  "tech": "React",
-  "emoji": "⚛️",
-  "tagline": "Build powerful UIs with reusable components",
-  "description": "React is a JavaScript library for building user interfaces. It uses a component-based architecture and a virtual DOM to make building dynamic, fast web applications easier.",
-  "category": "Frontend",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=SqcY0GlETPk",
-  "videoTitle": "React Course - Beginner's Tutorial (freeCodeCamp)",
-  "nextSteps": [
-    "Learn JSX, props, and component structure",
-    "Understand useState and useEffect hooks",
-    "Build a full CRUD app with React and an API"
-  ]
+﻿{
+    "tech":  "React",
+    "emoji":  "âš›ï¸",
+    "tagline":  "Build powerful UIs with components",
+    "description":  "React is a JavaScript library for building user interfaces using reusable components and a virtual DOM.",
+    "category":  "Frontend",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=SqcY0GlETPk",
+    "videoTitle":  "React Course - Beginner\u0027s Tutorial (freeCodeCamp)",
+    "nextSteps":  [
+                      "Learn JSX and props",
+                      "Understand useState and useEffect",
+                      "Build a CRUD app with React"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/SqcY0GlETPk"
 }

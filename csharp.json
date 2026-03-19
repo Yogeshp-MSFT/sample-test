@@ -1,15 +1,16 @@
-{
-  "tech": "C# / .NET",
-  "emoji": "🟣",
-  "tagline": "Powerful language for enterprise and games",
-  "description": "C# is a versatile, object-oriented language from Microsoft. It is used for building enterprise applications, game development with Unity, desktop apps, and Web APIs with ASP.NET Core.",
-  "category": "Programming Language",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=GhQdlIFylQ8",
-  "videoTitle": "C# Full Course - Learn C# 10 and .NET 6",
-  "nextSteps": [
-    "Learn OOP concepts — classes, inheritance, and interfaces",
-    "Build a console CRUD application",
-    "Explore ASP.NET Core for building Web APIs"
-  ]
+﻿{
+    "tech":  "C# / .NET",
+    "emoji":  "ðŸŸ£",
+    "tagline":  "Powerful language for enterprise and games",
+    "description":  "C# is a versatile language from Microsoft, used in enterprise apps, game development with Unity, and web APIs.",
+    "category":  "Programming Language",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=GhQdlIFylQ8",
+    "videoTitle":  "C# Full Course - Learn C# 10 and .NET 6",
+    "nextSteps":  [
+                      "Learn OOP concepts in C#",
+                      "Build a console CRUD app",
+                      "Explore ASP.NET Core for web APIs"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/GhQdlIFylQ8"
 }

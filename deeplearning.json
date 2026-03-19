@@ -1,15 +1,16 @@
-{
-  "tech": "Deep Learning",
-  "emoji": "🧠",
-  "tagline": "Neural networks that power modern AI",
-  "description": "Deep Learning uses multi-layered neural networks to solve complex problems like image recognition, natural language processing, and speech synthesis. It is the backbone of modern AI systems.",
-  "category": "Data & AI",
-  "level": "Advanced",
-  "videoUrl": "https://www.youtube.com/watch?v=aircAruvnKk",
-  "videoTitle": "Neural Networks / Deep Learning (3Blue1Brown)",
-  "nextSteps": [
-    "Learn TensorFlow or PyTorch fundamentals",
-    "Build an image classifier using a CNN",
-    "Study RNNs and Transformers for NLP tasks"
-  ]
+﻿{
+    "tech":  "Deep Learning",
+    "emoji":  "ðŸ§ ",
+    "tagline":  "Neural networks that power modern AI",
+    "description":  "Deep Learning uses neural networks with many layers to solve complex problems like image recognition and NLP.",
+    "category":  "Data \u0026 AI",
+    "level":  "Advanced",
+    "videoUrl":  "https://www.youtube.com/watch?v=aircAruvnKk",
+    "videoTitle":  "Neural Networks / Deep Learning (3Blue1Brown)",
+    "nextSteps":  [
+                      "Learn TensorFlow or PyTorch",
+                      "Build an image classifier",
+                      "Study CNNs and RNNs"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/aircAruvnKk"
 }

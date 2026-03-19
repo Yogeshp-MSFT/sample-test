@@ -1,15 +1,16 @@
-{
-  "tech": "JavaScript",
-  "emoji": "🌐",
-  "tagline": "The language of the web",
-  "description": "JavaScript runs in every browser and powers both frontend and backend (via Node.js) applications. It is the most widely used programming language in the world.",
-  "category": "Programming Language",
-  "level": "Beginner Friendly",
-  "videoUrl": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
-  "videoTitle": "JavaScript Full Course for Beginners (Programming with Mosh)",
-  "nextSteps": [
-    "Master DOM manipulation and browser events",
-    "Learn async JavaScript — Promises and async/await",
-    "Build a small project like a weather app or quiz"
-  ]
+﻿{
+    "tech":  "JavaScript",
+    "emoji":  "ðŸŒ",
+    "tagline":  "The language of the web",
+    "description":  "JavaScript runs in every browser and powers frontend and backend (Node.js) applications.",
+    "category":  "Programming Language",
+    "level":  "Beginner Friendly",
+    "videoUrl":  "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+    "videoTitle":  "JavaScript Full Course for Beginners (Mosh)",
+    "nextSteps":  [
+                      "Master DOM manipulation",
+                      "Learn async/await and Promises",
+                      "Build a weather or quiz app"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/W6NZfCO5SIk"
 }

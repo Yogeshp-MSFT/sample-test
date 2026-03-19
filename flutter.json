@@ -1,15 +1,16 @@
-{
-  "tech": "Flutter",
-  "emoji": "📱",
-  "tagline": "Build cross-platform mobile apps from one codebase",
-  "description": "Flutter is Google's open-source UI toolkit for building natively compiled applications for mobile, web, and desktop from a single Dart codebase. It offers fast development with expressive UIs.",
-  "category": "Mobile",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=x0uinJvhNxI",
-  "videoTitle": "Flutter Course for Beginners (freeCodeCamp)",
-  "nextSteps": [
-    "Learn Dart programming language basics",
-    "Build your first Flutter app with navigation and state",
-    "Study state management using Provider or Riverpod"
-  ]
+﻿{
+    "tech":  "Flutter",
+    "emoji":  "ðŸ“±",
+    "tagline":  "Build cross-platform mobile apps",
+    "description":  "Flutter is Google\u0027s UI toolkit for building natively compiled apps for mobile, web, and desktop from a single codebase.",
+    "category":  "Mobile",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=x0uinJvhNxI",
+    "videoTitle":  "Flutter Course for Beginners (freeCodeCamp)",
+    "nextSteps":  [
+                      "Learn Dart basics",
+                      "Build your first Flutter app",
+                      "Study state management with Provider or Riverpod"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/x0uinJvhNxI"
 }

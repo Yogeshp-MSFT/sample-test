@@ -1,15 +1,16 @@
-{
-  "tech": "TypeScript",
-  "emoji": "🔷",
-  "tagline": "JavaScript with static types",
-  "description": "TypeScript is a strongly typed superset of JavaScript that compiles to plain JS. It catches errors at compile time and improves code quality in large-scale projects.",
-  "category": "Programming Language",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
-  "videoTitle": "TypeScript Full Course for Beginners",
-  "nextSteps": [
-    "Understand interfaces, types, and enums",
-    "Convert an existing JavaScript project to TypeScript",
-    "Learn generics and utility types"
-  ]
+﻿{
+    "tech":  "TypeScript",
+    "emoji":  "ðŸ”·",
+    "tagline":  "JavaScript with static types",
+    "description":  "TypeScript adds static typing to JavaScript, catching errors early and improving code quality at scale.",
+    "category":  "Programming Language",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+    "videoTitle":  "TypeScript Full Course for Beginners",
+    "nextSteps":  [
+                      "Understand interfaces and types",
+                      "Convert a JS project to TS",
+                      "Learn generics and decorators"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/BwuLxPH8IDs"
 }

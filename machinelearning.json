@@ -1,15 +1,16 @@
-{
-  "tech": "Machine Learning",
-  "emoji": "🤖",
-  "tagline": "Teach computers to learn from data",
-  "description": "Machine Learning enables computers to learn patterns from data and make decisions or predictions with minimal human intervention. It powers recommendation systems, fraud detection, and much more.",
-  "category": "Data & AI",
-  "level": "Advanced",
-  "videoUrl": "https://www.youtube.com/watch?v=7eh4d6sabA0",
-  "videoTitle": "Machine Learning Full Course (freeCodeCamp)",
-  "nextSteps": [
-    "Understand supervised vs unsupervised learning",
-    "Build classification and regression models with scikit-learn",
-    "Work on a real prediction problem using a Kaggle dataset"
-  ]
+﻿{
+    "tech":  "Machine Learning",
+    "emoji":  "ðŸ¤–",
+    "tagline":  "Teach computers to learn from data",
+    "description":  "Machine Learning enables computers to learn patterns from data and make decisions with minimal human intervention.",
+    "category":  "Data \u0026 AI",
+    "level":  "Advanced",
+    "videoUrl":  "https://www.youtube.com/watch?v=7eh4d6sabA0",
+    "videoTitle":  "Machine Learning Full Course (freeCodeCamp)",
+    "nextSteps":  [
+                      "Understand supervised vs unsupervised learning",
+                      "Build models with scikit-learn",
+                      "Try a real dataset on Kaggle"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/7eh4d6sabA0"
 }

@@ -1,15 +1,16 @@
-{
-  "tech": "Java",
-  "emoji": "☕",
-  "tagline": "Write once, run anywhere",
-  "description": "Java is a platform-independent, object-oriented language widely used in enterprise applications, Android development, and backend systems. It is known for its stability and strong ecosystem.",
-  "category": "Programming Language",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=eIrMbAQSU34",
-  "videoTitle": "Java Full Course for Beginners (Telusko)",
-  "nextSteps": [
-    "Understand OOP — classes, inheritance, and polymorphism",
-    "Learn Java Collections and Streams",
-    "Build a REST API with Spring Boot"
-  ]
+﻿{
+    "tech":  "Java",
+    "emoji":  "â˜•",
+    "tagline":  "Write once, run anywhere",
+    "description":  "Java is a widely used, platform-independent language popular in enterprise applications, Android, and backend systems.",
+    "category":  "Programming Language",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=eIrMbAQSU34",
+    "videoTitle":  "Java Full Course for Beginners (Telusko)",
+    "nextSteps":  [
+                      "Understand OOP with classes and inheritance",
+                      "Learn collections and streams",
+                      "Build a Spring Boot REST API"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/eIrMbAQSU34"
 }

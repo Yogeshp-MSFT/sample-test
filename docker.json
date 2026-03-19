@@ -1,15 +1,16 @@
-{
-  "tech": "Docker",
-  "emoji": "🐳",
-  "tagline": "Containerize and ship your applications anywhere",
-  "description": "Docker packages applications and their dependencies into lightweight containers, making them portable and consistent across development, testing, and production environments.",
-  "category": "DevOps",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
-  "videoTitle": "Docker Tutorial for Beginners (freeCodeCamp)",
-  "nextSteps": [
-    "Dockerize a simple Node.js or Python app",
-    "Learn Docker Compose for multi-container apps",
-    "Push your image to Docker Hub"
-  ]
+﻿{
+    "tech":  "Docker",
+    "emoji":  "ðŸ³",
+    "tagline":  "Containerize your applications",
+    "description":  "Docker packages apps and their dependencies into containers, making them portable and consistent across environments.",
+    "category":  "DevOps",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+    "videoTitle":  "Docker Tutorial for Beginners (freeCodeCamp)",
+    "nextSteps":  [
+                      "Dockerize a simple Node.js app",
+                      "Learn Docker Compose",
+                      "Push an image to Docker Hub"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/fqMOX6JJhGo"
 }

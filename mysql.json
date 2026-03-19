@@ -1,15 +1,16 @@
-{
-  "tech": "MySQL",
-  "emoji": "🐬",
-  "tagline": "The world's most popular open-source database",
-  "description": "MySQL is a relational database management system used in web applications for storing and querying structured data. It uses SQL (Structured Query Language) for data operations.",
-  "category": "Database",
-  "level": "Beginner Friendly",
-  "videoUrl": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
-  "videoTitle": "MySQL Full Course (freeCodeCamp)",
-  "nextSteps": [
-    "Learn CRUD operations — SELECT, INSERT, UPDATE, DELETE",
-    "Understand JOINs, indexes, and foreign keys",
-    "Integrate MySQL with a Node.js or PHP backend"
-  ]
+﻿{
+    "tech":  "MySQL",
+    "emoji":  "ðŸ¬",
+    "tagline":  "The world\u0027s most popular open-source database",
+    "description":  "MySQL is a relational database system used in web applications for storing and querying structured data.",
+    "category":  "Database",
+    "level":  "Beginner Friendly",
+    "videoUrl":  "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+    "videoTitle":  "MySQL Full Course (freeCodeCamp)",
+    "nextSteps":  [
+                      "Learn CRUD operations",
+                      "Understand JOINs and indexes",
+                      "Integrate MySQL with a backend app"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/HXV3zeQKqGY"
 }

@@ -1,15 +1,16 @@
-{
-  "tech": "AWS",
-  "emoji": "☁️",
-  "tagline": "Amazon's industry-leading cloud platform",
-  "description": "AWS (Amazon Web Services) is the world's leading cloud platform with 200+ services covering compute, storage, databases, AI/ML, networking, and more. Used by startups and Fortune 500 companies alike.",
-  "category": "Cloud",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=ulprqHHWlng",
-  "videoTitle": "AWS Certified Cloud Practitioner Full Course",
-  "nextSteps": [
-    "Learn EC2, S3, and IAM fundamentals",
-    "Deploy a web app using AWS Elastic Beanstalk",
-    "Study for the AWS Cloud Practitioner (CLF-C02) certification"
-  ]
+﻿{
+    "tech":  "AWS",
+    "emoji":  "â˜ï¸",
+    "tagline":  "Amazon\u0027s cloud platform",
+    "description":  "AWS is the leading cloud platform with 200+ services covering compute, storage, databases, AI, and more.",
+    "category":  "Cloud",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=ulprqHHWlng",
+    "videoTitle":  "AWS Certified Cloud Practitioner Full Course",
+    "nextSteps":  [
+                      "Learn EC2, S3, and IAM basics",
+                      "Deploy a web app on AWS",
+                      "Study for AWS Cloud Practitioner cert"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/ulprqHHWlng"
 }

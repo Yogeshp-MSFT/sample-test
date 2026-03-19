@@ -1,15 +1,16 @@
-{
-  "tech": "GraphQL",
-  "emoji": "🔗",
-  "tagline": "A smarter, flexible API query language",
-  "description": "GraphQL is a query language for APIs that lets clients request exactly the data they need — no more, no less. It is more efficient and flexible than traditional REST APIs.",
-  "category": "Frontend",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=ed8SzALpx1Q",
-  "videoTitle": "GraphQL Full Course (freeCodeCamp)",
-  "nextSteps": [
-    "Understand queries, mutations, and subscriptions",
-    "Build a GraphQL API with Apollo Server",
-    "Integrate GraphQL with a React frontend using Apollo Client"
-  ]
+﻿{
+    "tech":  "GraphQL",
+    "emoji":  "ðŸ”—",
+    "tagline":  "A smarter API query language",
+    "description":  "GraphQL lets clients request exactly the data they need, making APIs more efficient compared to REST.",
+    "category":  "Frontend",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=ed8SzALpx1Q",
+    "videoTitle":  "GraphQL Full Course (freeCodeCamp)",
+    "nextSteps":  [
+                      "Understand queries, mutations, and subscriptions",
+                      "Build a GraphQL API with Apollo",
+                      "Integrate with a React frontend"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/ed8SzALpx1Q"
 }

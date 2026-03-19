@@ -1,15 +1,16 @@
-{
-  "tech": "DevOps",
-  "emoji": "🔁",
-  "tagline": "Bridge the gap between development and operations",
-  "description": "DevOps is a set of practices, tools, and culture that combines software development and IT operations to deliver faster, more reliable software through automation and continuous improvement.",
-  "category": "DevOps",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=9zUHg7xjIqQ",
-  "videoTitle": "DevOps Engineering Course for Beginners (freeCodeCamp)",
-  "nextSteps": [
-    "Learn CI/CD pipelines with GitHub Actions or Azure DevOps",
-    "Study Docker and Kubernetes for containerization",
-    "Set up a full automated deployment pipeline for a project"
-  ]
+﻿{
+    "tech":  "DevOps",
+    "emoji":  "ðŸ”",
+    "tagline":  "Bridge the gap between dev and operations",
+    "description":  "DevOps is a set of practices combining software development and IT operations to deliver faster, more reliable software.",
+    "category":  "DevOps",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=9zUHg7xjIqQ",
+    "videoTitle":  "DevOps Engineering Course for Beginners (freeCodeCamp)",
+    "nextSteps":  [
+                      "Learn CI/CD with GitHub Actions",
+                      "Study Docker and Kubernetes",
+                      "Set up a full pipeline project"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/9zUHg7xjIqQ"
 }

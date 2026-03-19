@@ -1,15 +1,16 @@
-{
-  "tech": "Cybersecurity",
-  "emoji": "🔐",
-  "tagline": "Protect systems, networks, and data from threats",
-  "description": "Cybersecurity involves protecting computer systems, networks, and programs from digital attacks, unauthorized access, and data breaches. It is one of the fastest-growing fields in tech.",
-  "category": "Security",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=lpa8uy4DyMo",
-  "videoTitle": "Cybersecurity Full Course for Beginners (freeCodeCamp)",
-  "nextSteps": [
-    "Learn networking fundamentals — TCP/IP, DNS, HTTP",
-    "Study ethical hacking basics and common attack vectors",
-    "Practice on TryHackMe or HackTheBox platforms"
-  ]
+﻿{
+    "tech":  "Cybersecurity",
+    "emoji":  "ðŸ”",
+    "tagline":  "Protect systems and data from threats",
+    "description":  "Cybersecurity covers protecting networks, systems, and programs from digital attacks, breaches, and unauthorized access.",
+    "category":  "Security",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=lpa8uy4DyMo",
+    "videoTitle":  "Cybersecurity Full Course for Beginner (freeCodeCamp)",
+    "nextSteps":  [
+                      "Learn networking fundamentals",
+                      "Study ethical hacking basics",
+                      "Practice on TryHackMe or HackTheBox"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/lpa8uy4DyMo"
 }

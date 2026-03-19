@@ -1,15 +1,16 @@
-{
-  "tech": "PHP",
-  "emoji": "🐘",
-  "tagline": "Server-side scripting for the web",
-  "description": "PHP is a widely-used server-side scripting language that powers over 75% of websites on the internet, including WordPress, Facebook (originally), and many CMS platforms.",
-  "category": "Backend",
-  "level": "Beginner Friendly",
-  "videoUrl": "https://www.youtube.com/watch?v=OK_JCtrrv-c",
-  "videoTitle": "PHP For Beginners (Traversy Media)",
-  "nextSteps": [
-    "Learn PHP with MySQL for dynamic web pages",
-    "Build a login and registration system",
-    "Explore the Laravel framework for modern PHP development"
-  ]
+﻿{
+    "tech":  "PHP",
+    "emoji":  "ðŸ˜",
+    "tagline":  "Server-side scripting for the web",
+    "description":  "PHP is a widely-used server-side language powering over 75% of websites, including WordPress.",
+    "category":  "Backend",
+    "level":  "Beginner Friendly",
+    "videoUrl":  "https://www.youtube.com/watch?v=OK_JCtrrv-c",
+    "videoTitle":  "PHP For Beginners (Traversy Media)",
+    "nextSteps":  [
+                      "Learn PHP with MySQL",
+                      "Build a login/registration system",
+                      "Explore Laravel framework"
+                  ],
+    "videoEmbedUrl":  "https://www.youtube.com/embed/OK_JCtrrv-c"
 }
