@@ -1,0 +1,79 @@
+openapi: 3.0.1
+info:
+  title: TechCoach Learning Card API
+  description: Returns learning card data for a given technology
+  version: 1.0.0
+servers:
+  - url: https://yogeshp-msft.github.io/sample-test
+paths:
+  /{tech}.json:
+    get:
+      operationId: getLearningCard
+      summary: Get a learning card for a specific technology
+      description: >
+        Returns description, video URL, and next steps for a technology.
+        Valid values for tech: python, javascript, typescript, csharp, java,
+        php, htmlcss, react, tailwind, graphql, nodejs, mysql, docker,
+        kubernetes, aws, azure, devops, datascience, machinelearning,
+        deeplearning, dsa, systemdesign, cybersecurity, flutter, swift
+      parameters:
+        - name: tech
+          in: path
+          required: true
+          description: Technology identifier e.g. python, react, docker
+          schema:
+            type: string
+            enum:
+              - python
+              - javascript
+              - typescript
+              - csharp
+              - java
+              - php
+              - htmlcss
+              - react
+              - tailwind
+              - graphql
+              - nodejs
+              - mysql
+              - docker
+              - kubernetes
+              - aws
+              - azure
+              - devops
+              - datascience
+              - machinelearning
+              - deeplearning
+              - dsa
+              - systemdesign
+              - cybersecurity
+              - flutter
+              - swift
+      responses:
+        '200':
+          description: Learning card data
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  tech:
+                    type: string
+                  emoji:
+                    type: string
+                  tagline:
+                    type: string
+                  description:
+                    type: string
+                  category:
+                    type: string
+                  level:
+                    type: string
+                  videoUrl:
+                    type: string
+                  videoTitle:
+                    type: string
+                  nextSteps:
+                    type: array
+                    items:
+                      type: string
