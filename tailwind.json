@@ -1,0 +1,15 @@
+{
+  "tech": "Tailwind CSS",
+  "emoji": "🎨",
+  "tagline": "Utility-first CSS framework for rapid UI development",
+  "description": "Tailwind CSS provides low-level utility classes that let you build completely custom designs without leaving your HTML. No more writing custom CSS for every component.",
+  "category": "Frontend",
+  "level": "Beginner Friendly",
+  "videoUrl": "https://www.youtube.com/watch?v=dFgzHOX84xQ",
+  "videoTitle": "Tailwind CSS Tutorial (The Net Ninja)",
+  "nextSteps": [
+    "Set up Tailwind in a new project",
+    "Build a responsive card and navigation layout",
+    "Combine Tailwind with React or a static HTML page"
+  ]
+}

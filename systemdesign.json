@@ -1,0 +1,15 @@
+{
+  "tech": "System Design",
+  "emoji": "⚙️",
+  "tagline": "Design scalable, reliable, and maintainable systems",
+  "description": "System Design covers how to architect large-scale distributed systems. It is a critical skill for senior engineering roles and covers topics like load balancing, caching, databases, and microservices.",
+  "category": "Core CS",
+  "level": "Advanced",
+  "videoUrl": "https://www.youtube.com/watch?v=UzLMhqg3_Wc",
+  "videoTitle": "System Design Full Course (Gaurav Sen)",
+  "nextSteps": [
+    "Learn load balancers, caching strategies, and CDNs",
+    "Study CAP theorem and database consistency models",
+    "Practice designing systems like Twitter, Netflix, or WhatsApp"
+  ]
+}

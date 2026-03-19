@@ -1,0 +1,15 @@
+{
+  "tech": "HTML & CSS",
+  "emoji": "🌍",
+  "tagline": "The building blocks of every website",
+  "description": "HTML structures web content while CSS styles and layouts it. Together they are the foundation of every website and the first thing every web developer learns.",
+  "category": "Frontend",
+  "level": "Beginner Friendly",
+  "videoUrl": "https://www.youtube.com/watch?v=mU6anWqZJcc",
+  "videoTitle": "HTML CSS Full Course - Beginner to Pro (SuperSimpleDev)",
+  "nextSteps": [
+    "Build your first webpage from scratch",
+    "Learn Flexbox and CSS Grid for layouts",
+    "Study responsive design and media queries"
+  ]
+}

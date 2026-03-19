@@ -1,0 +1,15 @@
+{
+  "tech": "Kubernetes",
+  "emoji": "☸️",
+  "tagline": "Orchestrate containers at scale",
+  "description": "Kubernetes (K8s) automates the deployment, scaling, and management of containerized applications across clusters of machines. It is the industry standard for container orchestration.",
+  "category": "DevOps",
+  "level": "Advanced",
+  "videoUrl": "https://www.youtube.com/watch?v=X48VuDVv0do",
+  "videoTitle": "Kubernetes Tutorial for Beginners (TechWorld with Nana)",
+  "nextSteps": [
+    "Understand Pods, Deployments, and Services",
+    "Deploy an app locally using Minikube",
+    "Learn Helm charts for package management"
+  ]
+}

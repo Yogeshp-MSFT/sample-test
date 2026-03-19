@@ -1,0 +1,15 @@
+{
+  "tech": "Java",
+  "emoji": "☕",
+  "tagline": "Write once, run anywhere",
+  "description": "Java is a platform-independent, object-oriented language widely used in enterprise applications, Android development, and backend systems. It is known for its stability and strong ecosystem.",
+  "category": "Programming Language",
+  "level": "Intermediate",
+  "videoUrl": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+  "videoTitle": "Java Full Course for Beginners (Telusko)",
+  "nextSteps": [
+    "Understand OOP — classes, inheritance, and polymorphism",
+    "Learn Java Collections and Streams",
+    "Build a REST API with Spring Boot"
+  ]
+}

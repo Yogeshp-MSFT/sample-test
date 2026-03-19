@@ -1,0 +1,15 @@
+{
+  "tech": "Data Science",
+  "emoji": "📊",
+  "tagline": "Turn raw data into meaningful insights",
+  "description": "Data Science combines statistics, programming, and domain knowledge to extract insights, identify patterns, and make data-driven decisions. Python is the primary language used in this field.",
+  "category": "Data & AI",
+  "level": "Intermediate",
+  "videoUrl": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+  "videoTitle": "Data Science Full Course (Simplilearn)",
+  "nextSteps": [
+    "Learn Python with Pandas and NumPy for data manipulation",
+    "Study data visualization with Matplotlib and Seaborn",
+    "Work on a real dataset from Kaggle"
+  ]
+}

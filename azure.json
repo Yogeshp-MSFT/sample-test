@@ -1,0 +1,15 @@
+{
+  "tech": "Azure",
+  "emoji": "☁️",
+  "tagline": "Microsoft's powerful cloud platform",
+  "description": "Microsoft Azure is a cloud platform offering 200+ services including compute, AI, DevOps, databases, and deep integration with Microsoft 365 and the broader Microsoft ecosystem.",
+  "category": "Cloud",
+  "level": "Intermediate",
+  "videoUrl": "https://www.youtube.com/watch?v=NKEFWyqJ5XA",
+  "videoTitle": "Microsoft Azure Fundamentals (AZ-900) Full Course",
+  "nextSteps": [
+    "Learn Azure App Service, Blob Storage, and Azure AD",
+    "Deploy a web application to Azure",
+    "Study for the AZ-900 Azure Fundamentals certification"
+  ]
+}

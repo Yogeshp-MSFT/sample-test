@@ -1,0 +1,15 @@
+{
+  "tech": "Data Structures & Algorithms",
+  "emoji": "🧮",
+  "tagline": "The foundation of efficient programming",
+  "description": "Data Structures and Algorithms cover how data is organized and processed efficiently. Mastering DSA is essential for coding interviews at top companies and for writing high-performance applications.",
+  "category": "Core CS",
+  "level": "Intermediate",
+  "videoUrl": "https://www.youtube.com/watch?v=RBSGKlAvoiM",
+  "videoTitle": "Data Structures and Algorithms (freeCodeCamp)",
+  "nextSteps": [
+    "Master arrays, linked lists, stacks, queues, and trees",
+    "Learn sorting and searching algorithms",
+    "Practice problems daily on LeetCode or HackerRank"
+  ]
+}

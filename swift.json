@@ -1,0 +1,15 @@
+{
+  "tech": "iOS (Swift)",
+  "emoji": "🍎",
+  "tagline": "Build native iPhone and iPad applications",
+  "description": "Swift is Apple's modern, powerful programming language for building iOS, macOS, watchOS, and tvOS applications. It is designed to be safe, fast, and expressive with a clean syntax.",
+  "category": "Mobile",
+  "level": "Intermediate",
+  "videoUrl": "https://www.youtube.com/watch?v=comQ1-x2a1Q",
+  "videoTitle": "iOS Development Course - Use Swift (freeCodeCamp)",
+  "nextSteps": [
+    "Learn Swift syntax, optionals, and closures",
+    "Build a simple iOS app UI using SwiftUI",
+    "Study UIKit for advanced layouts and navigation"
+  ]
+}
