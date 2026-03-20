@@ -12,5 +12,6 @@
                       "Build your first Flutter app",
                       "Study state management with Provider or Riverpod"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/x0uinJvhNxI"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/x0uinJvhNxI",
+    "videoId":  "x0uinJvhNxI"
 }

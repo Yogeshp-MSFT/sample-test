@@ -12,5 +12,6 @@
                       "Study Docker and Kubernetes",
                       "Set up a full pipeline project"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/9zUHg7xjIqQ"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/9zUHg7xjIqQ",
+    "videoId":  "9zUHg7xjIqQ"
 }

@@ -12,5 +12,6 @@
                       "Learn collections and streams",
                       "Build a Spring Boot REST API"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/eIrMbAQSU34"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/eIrMbAQSU34",
+    "videoId":  "eIrMbAQSU34"
 }

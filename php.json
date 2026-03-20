@@ -12,5 +12,6 @@
                       "Build a login/registration system",
                       "Explore Laravel framework"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/OK_JCtrrv-c"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/OK_JCtrrv-c",
+    "videoId":  "OK_JCtrrv-c"
 }

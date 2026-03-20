@@ -12,5 +12,6 @@
                       "Deploy a web app to Azure",
                       "Study for AZ-900 certification"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/NKEFWyqJ5XA"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/NKEFWyqJ5XA",
+    "videoId":  "NKEFWyqJ5XA"
 }

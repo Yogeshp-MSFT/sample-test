@@ -12,5 +12,6 @@
                       "Learn Docker Compose",
                       "Push an image to Docker Hub"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/fqMOX6JJhGo"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/fqMOX6JJhGo",
+    "videoId":  "fqMOX6JJhGo"
 }

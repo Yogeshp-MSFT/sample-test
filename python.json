@@ -12,5 +12,6 @@
                       "Build a calculator or to-do app",
                       "Explore NumPy, Pandas, or Flask"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/rfscVS0vtbw"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/rfscVS0vtbw",
+    "videoId":  "rfscVS0vtbw"
 }

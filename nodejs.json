@@ -1,12 +1,17 @@
-{
-  "tech": "Node.js",
-  "emoji": "🟢",
-  "tagline": "JavaScript on the server side",
-  "description": "Node.js lets you run JavaScript outside the browser, ideal for building APIs and real-time apps.",
-  "category": "Backend",
-  "level": "Intermediate",
-  "videoUrl": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
-  "videoEmbedUrl": "https://www.youtube.com/embed/TlB_eWDSMt4",
-  "videoTitle": "Node.js Full Course for Beginners (Programming with Mosh)",
-  "nextSteps": ["Build a REST API with Express", "Learn file system and HTTP modules", "Connect to a database"]
+﻿{
+    "tech":  "Node.js",
+    "emoji":  "ðŸŸ¢",
+    "tagline":  "JavaScript on the server side",
+    "description":  "Node.js lets you run JavaScript outside the browser, ideal for building APIs and real-time apps.",
+    "category":  "Backend",
+    "level":  "Intermediate",
+    "videoUrl":  "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+    "videoEmbedUrl":  "https://www.youtube.com/embed/TlB_eWDSMt4",
+    "videoTitle":  "Node.js Full Course for Beginners (Programming with Mosh)",
+    "nextSteps":  [
+                      "Build a REST API with Express",
+                      "Learn file system and HTTP modules",
+                      "Connect to a database"
+                  ],
+    "videoId":  "TlB_eWDSMt4"
 }

@@ -12,5 +12,6 @@
                       "Deploy an app on Minikube",
                       "Learn Helm charts"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/X48VuDVv0do"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/X48VuDVv0do",
+    "videoId":  "X48VuDVv0do"
 }

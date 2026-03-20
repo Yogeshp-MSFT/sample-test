@@ -12,5 +12,6 @@
                       "Convert a JS project to TS",
                       "Learn generics and decorators"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/BwuLxPH8IDs"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/BwuLxPH8IDs",
+    "videoId":  "BwuLxPH8IDs"
 }

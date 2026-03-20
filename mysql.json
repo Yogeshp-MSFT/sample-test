@@ -12,5 +12,6 @@
                       "Understand JOINs and indexes",
                       "Integrate MySQL with a backend app"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/HXV3zeQKqGY"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/HXV3zeQKqGY",
+    "videoId":  "HXV3zeQKqGY"
 }

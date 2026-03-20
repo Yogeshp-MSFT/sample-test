@@ -12,5 +12,6 @@
                       "Deploy a web app on AWS",
                       "Study for AWS Cloud Practitioner cert"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/ulprqHHWlng"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/ulprqHHWlng",
+    "videoId":  "ulprqHHWlng"
 }

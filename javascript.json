@@ -12,5 +12,6 @@
                       "Learn async/await and Promises",
                       "Build a weather or quiz app"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/W6NZfCO5SIk"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/W6NZfCO5SIk",
+    "videoId":  "W6NZfCO5SIk"
 }

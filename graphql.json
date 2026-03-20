@@ -12,5 +12,6 @@
                       "Build a GraphQL API with Apollo",
                       "Integrate with a React frontend"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/ed8SzALpx1Q"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/ed8SzALpx1Q",
+    "videoId":  "ed8SzALpx1Q"
 }

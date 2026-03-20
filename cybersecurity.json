@@ -12,5 +12,6 @@
                       "Study ethical hacking basics",
                       "Practice on TryHackMe or HackTheBox"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/lpa8uy4DyMo"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/lpa8uy4DyMo",
+    "videoId":  "lpa8uy4DyMo"
 }

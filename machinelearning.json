@@ -12,5 +12,6 @@
                       "Build models with scikit-learn",
                       "Try a real dataset on Kaggle"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/7eh4d6sabA0"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/7eh4d6sabA0",
+    "videoId":  "7eh4d6sabA0"
 }

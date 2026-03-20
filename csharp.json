@@ -12,5 +12,6 @@
                       "Build a console CRUD app",
                       "Explore ASP.NET Core for web APIs"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/GhQdlIFylQ8"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/GhQdlIFylQ8",
+    "videoId":  "GhQdlIFylQ8"
 }

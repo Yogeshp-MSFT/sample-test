@@ -12,5 +12,6 @@
                       "Understand useState and useEffect",
                       "Build a CRUD app with React"
                   ],
-    "videoEmbedUrl":  "https://www.youtube.com/embed/SqcY0GlETPk"
+    "videoEmbedUrl":  "https://www.youtube.com/embed/SqcY0GlETPk",
+    "videoId":  "SqcY0GlETPk"
 }
